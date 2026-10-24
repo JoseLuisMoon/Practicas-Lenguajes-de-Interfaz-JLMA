@@ -22,6 +22,3 @@ Horario: 10:00 - 11:00
 13. [Obtención de una cadena decimal](10.%20Obtenci%C3%B3n%20de%20una%20cadena%20decimal/)
 14. [Operaciones lógicas](11.%20Operaciones%20l%C3%B3gicas/)
 15. [Desplazamiento y rotación](12.%20Desplazamiento%20y%20rotaci%C3%B3n/)
-16. [Obtención de una cadena hexadecimal](13.%20Obtenci%C3%B3n%20de%20una%20cadena%20hexadecimal/)
-17. [Captura y almacenamiento de datos](14.%20Captura%20y%20almacenamiento%20de%20datos/)
-18. [Manipulación de archivos](15.%20Manipulaci%C3%B3n%20de%20archivos/)
