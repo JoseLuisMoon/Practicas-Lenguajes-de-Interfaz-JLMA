@@ -11,7 +11,7 @@ INCLUDE Irvine32.inc
 .code
 main PROC
     mov ecx, 5 ; Establece en 5 el registro contador ECX para controlar la instrucción loop
-    
+
 ciclo:
     mov eax, ecx ; Pasa el valor del contador ECX a EAX para poder imprimirlo
     
@@ -21,5 +21,4 @@ ciclo:
     
     exit
 main ENDP
-
 END main
