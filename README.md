@@ -1,7 +1,5 @@
 # U2-Prácticas de Lenguajes de Interfaz
 
-Colección de programas y actividades correspondientes a la unidad 2 de la asignatura Lenguajes de Interfaz.
-
 Alumno: Jose Luis Montoya Albarez  
 Docente: Dr. José Luis Medina Jiménez  
 Materia: Lenguajes de Interfaz  
