@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="11. Operaciones lógicas/11. Operaciones lógicas.vcxproj" />
+</Solution>

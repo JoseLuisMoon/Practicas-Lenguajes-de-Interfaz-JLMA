@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="2. Captura y desplegado de mensajes/2. Captura y desplegado de mensajes.vcxproj" />
+</Solution>

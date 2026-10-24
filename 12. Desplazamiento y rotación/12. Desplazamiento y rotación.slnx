@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="12. Desplazamiento y rotación/12. Desplazamiento y rotación.vcxproj" />
+</Solution>
