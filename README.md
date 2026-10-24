@@ -1,13 +1,11 @@
 # U2-Prácticas de Lenguajes de Interfaz
 
-Colección de programas y actividades correspondientes a la unidad 2 de la asignatura Lenguajes de Interfaz.
-
 Alumno: Jose Luis Montoya Albarez
 Docente: Dr. José Luis Medina Jiménez 
 Materia: Lenguajes de Interfaz
 Horario: 10:00 - 11:00
 
-## Índice de prácticas
+Índice de prácticas
 
 1. [Ciclos numéricos](1.%20Ciclos%20num%C3%A9ricos/main.asm)
 2. [Captura y desplegado de mensajes](2.%20Captura%20y%20desplegado%20de%20mensajes/)
